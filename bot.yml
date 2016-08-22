@@ -6,5 +6,5 @@ config:
       friendly_name: API.AI developer token
       info: This is utterly necessary
       type: secret
-      default: 5fbbf84f81bb1b7dc1bd1062c3
+      default: NOT A VALID TOKEN
       global: true
